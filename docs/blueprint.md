@@ -10,7 +10,7 @@
 
 ## Style Guidelines:
 
-- Primary color: Blue (#2979FF) to convey trust and reliability.
+- Primary color: Orange (#FFA500) to convey trust and reliability.
 - Secondary color: Gray (#B0BEC5) for backgrounds and less important elements.
 - Accent: Teal (#009688) for interactive elements and calls to action.
 - Clean and intuitive layout for easy navigation.
