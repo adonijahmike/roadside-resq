@@ -26,7 +26,7 @@ const statusColors: Record<ServiceRequestType['status'], string> = {
   Pending: 'bg-yellow-500',
   Accepted: 'bg-blue-500',
   'In Progress': 'bg-indigo-500',
-  Completed: 'bg-green-500',
+  Completed: 'bg-yellow-500',
   Cancelled: 'bg-red-500',
 };
 
