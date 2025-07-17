@@ -27,7 +27,7 @@ const statusColors: Record<ServiceRequestType['status'], string> = {
   Accepted: 'bg-blue-500',
   'In Progress': 'bg-indigo-500',
   Completed: 'bg-green-500',
-  Cancelled: 'bg-red-500',
+  Cancelled: 'bg-orange-500',
 };
 
 export default function RoadsideRescuePage() {
